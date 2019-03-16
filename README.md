@@ -1,4 +1,4 @@
-Reflow Oven Controller forked from dasaki/
+Reflow Oven Controller forked from dasaki
 ====================
 **Added Eagle hardware design** 
 
