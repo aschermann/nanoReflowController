@@ -1,8 +1,10 @@
-Reflow Oven Controller
+Reflow Oven Controller forked from dasaki/
 ====================
+**Added Eagle hardware design** 
 
 
 **News**
+
 
 * Forked from 0xPIT & uploaded the code after a lot of restructuration
 * Board design has also changed
